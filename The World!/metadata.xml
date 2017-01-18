@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The World!</name>
+    <directory>the world!</directory>
+    <id>845283741</id>
+    <description>Reusable Time Stop
+
+Freezes your enemies and gives you anti-gravity tears for ~100 frames
+Recharges after ~200 frames</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Active Items"/>
+</metadata>
